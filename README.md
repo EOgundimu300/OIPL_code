@@ -2,7 +2,7 @@
 
 R code and data for the article
 
-Nadhrah, D. A. and Ogundimu, E. O. Finiteness and bias under observed-information penalization in binomial-response generalized linear models.
+Ogundimu, E. O. and Nadhrah, D. A. Finiteness and bias under observed-information penalization in binomial-response generalized linear models.
 
 Table, figure and section numbers below refer to the article and its Supplementary Material.
 
